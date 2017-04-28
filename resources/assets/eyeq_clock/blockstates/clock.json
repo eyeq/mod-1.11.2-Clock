@@ -1,0 +1,184 @@
+{
+  "variants": {
+    "facing=east,time=1": {
+      "model": "eyeq_clock:clock_1",
+      "y": 90
+    },
+    "facing=south,time=1": {
+      "model": "eyeq_clock:clock_1",
+      "y": 180
+    },
+    "facing=west,time=1": {
+      "model": "eyeq_clock:clock_1",
+      "y": 270
+    },
+    "facing=north,time=1": {
+      "model": "eyeq_clock:clock_1"
+    },
+    "facing=east,time=2": {
+      "model": "eyeq_clock:clock_2",
+      "y": 90
+    },
+    "facing=south,time=2": {
+      "model": "eyeq_clock:clock_2",
+      "y": 180
+    },
+    "facing=west,time=2": {
+      "model": "eyeq_clock:clock_2",
+      "y": 270
+    },
+    "facing=north,time=2": {
+      "model": "eyeq_clock:clock_2"
+    },
+    "facing=east,time=3": {
+      "model": "eyeq_clock:clock_3",
+      "y": 90
+    },
+    "facing=south,time=3": {
+      "model": "eyeq_clock:clock_3",
+      "y": 180
+    },
+    "facing=west,time=3": {
+      "model": "eyeq_clock:clock_3",
+      "y": 270
+    },
+    "facing=north,time=3": {
+      "model": "eyeq_clock:clock_3"
+    },
+    "facing=east,time=4": {
+      "model": "eyeq_clock:clock_4",
+      "y": 90
+    },
+    "facing=south,time=4": {
+      "model": "eyeq_clock:clock_4",
+      "y": 180
+    },
+    "facing=west,time=4": {
+      "model": "eyeq_clock:clock_4",
+      "y": 270
+    },
+    "facing=north,time=4": {
+      "model": "eyeq_clock:clock_4"
+    },
+    "facing=east,time=5": {
+      "model": "eyeq_clock:clock_5",
+      "y": 90
+    },
+    "facing=south,time=5": {
+      "model": "eyeq_clock:clock_5",
+      "y": 180
+    },
+    "facing=west,time=5": {
+      "model": "eyeq_clock:clock_5",
+      "y": 270
+    },
+    "facing=north,time=5": {
+      "model": "eyeq_clock:clock_5"
+    },
+    "facing=east,time=6": {
+      "model": "eyeq_clock:clock_6",
+      "y": 90
+    },
+    "facing=south,time=6": {
+      "model": "eyeq_clock:clock_6",
+      "y": 180
+    },
+    "facing=west,time=6": {
+      "model": "eyeq_clock:clock_6",
+      "y": 270
+    },
+    "facing=north,time=6": {
+      "model": "eyeq_clock:clock_6"
+    },
+    "facing=east,time=7": {
+      "model": "eyeq_clock:clock_7",
+      "y": 90
+    },
+    "facing=south,time=7": {
+      "model": "eyeq_clock:clock_7",
+      "y": 180
+    },
+    "facing=west,time=7": {
+      "model": "eyeq_clock:clock_7",
+      "y": 270
+    },
+    "facing=north,time=7": {
+      "model": "eyeq_clock:clock_7"
+    },
+    "facing=east,time=8": {
+      "model": "eyeq_clock:clock_8",
+      "y": 90
+    },
+    "facing=south,time=8": {
+      "model": "eyeq_clock:clock_8",
+      "y": 180
+    },
+    "facing=west,time=8": {
+      "model": "eyeq_clock:clock_8",
+      "y": 270
+    },
+    "facing=north,time=8": {
+      "model": "eyeq_clock:clock_8"
+    },
+    "facing=east,time=9": {
+      "model": "eyeq_clock:clock_9",
+      "y": 90
+    },
+    "facing=south,time=9": {
+      "model": "eyeq_clock:clock_9",
+      "y": 180
+    },
+    "facing=west,time=9": {
+      "model": "eyeq_clock:clock_9",
+      "y": 270
+    },
+    "facing=north,time=9": {
+      "model": "eyeq_clock:clock_9"
+    },
+    "facing=east,time=10": {
+      "model": "eyeq_clock:clock_10",
+      "y": 90
+    },
+    "facing=south,time=10": {
+      "model": "eyeq_clock:clock_10",
+      "y": 180
+    },
+    "facing=west,time=10": {
+      "model": "eyeq_clock:clock_10",
+      "y": 270
+    },
+    "facing=north,time=10": {
+      "model": "eyeq_clock:clock_10"
+    },
+    "facing=east,time=11": {
+      "model": "eyeq_clock:clock_11",
+      "y": 90
+    },
+    "facing=south,time=11": {
+      "model": "eyeq_clock:clock_11",
+      "y": 180
+    },
+    "facing=west,time=11": {
+      "model": "eyeq_clock:clock_11",
+      "y": 270
+    },
+    "facing=north,time=11": {
+      "model": "eyeq_clock:clock_11"
+    },
+    "facing=east,time=12": {
+      "model": "eyeq_clock:clock_12",
+      "y": 90
+    },
+    "facing=south,time=12": {
+      "model": "eyeq_clock:clock_12",
+      "y": 180
+    },
+    "facing=west,time=12": {
+      "model": "eyeq_clock:clock_12",
+      "y": 270
+    },
+    "facing=north,time=12": {
+      "model": "eyeq_clock:clock_12"
+    }
+  }
+}

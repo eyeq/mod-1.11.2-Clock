@@ -1,0 +1,8 @@
+{
+  "parent": "eyeq_clock:block/clock",
+  "textures": {
+    "stone": "blocks/stone",
+    "gold": "blocks/gold_block",
+    "time": "eyeq_clock:blocks/clock_10"
+  }
+}
